@@ -8,6 +8,7 @@ Screenshots:
 Application icon in the device application menu ^
 
 ![IMG_20240615_180921](https://github.com/Vaishnav88sk/Dice_Roller_App/assets/116202759/f8eff812-4864-4059-926f-a8092c76a309)
+
 Start Screen ^
 
 
@@ -15,4 +16,5 @@ Start Screen ^
 
 
 ![IMG_20240615_180949](https://github.com/Vaishnav88sk/Dice_Roller_App/assets/116202759/1248915f-7bad-407b-a68d-1bcf23ad3e66)
+
 After clicking button ^
